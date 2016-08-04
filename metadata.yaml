@@ -1,0 +1,31 @@
+_repo: Dolly-Dialogues_1203
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: The flirtatious relationship between bachelor Sam Carter and the vivacious
+  beauty Dorothea "Dolly" Foster takes them from Monte Carlo to London. When Dolly
+  marries a wealthy lord, Sam feigns indifference but they both know the truth. Enormously
+  popular when published, this novel is an insightful look into the social mores of
+  the fashionable late-Victorian scene.
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Manners and customs -- Fiction'
+- GITenberg
+title: Dolly Dialogues
+url: http://www.gutenberg.org/ebooks/1203
